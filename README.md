@@ -5,8 +5,11 @@ Food recommendation engines can be found in various applications, from restauran
 
 # Extensions-used
 Pylance
+
 Python
+
 AREPL for python
+
 Lottie Viewer
 
 # Initalise
