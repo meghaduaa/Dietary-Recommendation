@@ -12,8 +12,6 @@ AREPL for python
 
 Lottie Viewer
 
-# Initalise
-![initial](https://github.com/meghadua2603/Dietary-Recommendation/assets/123231579/6da20b17-52b7-4e72-86f7-8fd60758c03e)
 
 # Output Website
 ![o](https://github.com/meghadua2603/Dietary-Recommendation/assets/123231579/dc90efb5-cea0-4798-ab8a-50378ab8a6c3)
